@@ -1,4 +1,6 @@
 
+kek
+
 # Created by https://www.toptal.com/developers/gitignore/api/cmake,linux,clion+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=cmake,linux,clion+all
 
@@ -127,3 +129,4 @@ _deps
 .nfs*
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake,linux,clion+all
+/CMakeLists.txt
